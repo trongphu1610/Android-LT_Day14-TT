@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LT_Day14</string>
+    <string name="title_fragment_first">Fragment First</string>
+    <string name="title_second_fragment">Second Fragment</string>
+</resources>
